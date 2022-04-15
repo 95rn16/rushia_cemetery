@@ -1,13 +1,12 @@
 # rushia_cemetery
 An online cemetery for Uruha Rushia.  
 潤羽るしあ様の霊園です。
+You can leave your name and messages for her on "condolatory.csv".  
+"condolatory.csv"に、あなたの名前と彼女へのメッセージを残すことができます。  
 
 ![Rushia's altar](soushiki.png)  
 
 ![Hannya shingyo](hannya_shingyo.png)  
-
-You can leave your name and messages for her on "condolatory.csv".  
-"condolatory.csv"に、あなたの名前と彼女へのメッセージを残すことができます。  
 
 ## format of message  
 ## メッセージの形式  
