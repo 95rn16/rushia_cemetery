@@ -4,7 +4,7 @@ An online cemetery for Uruha Rushia.
 
 ![Rushia's altar](soushiki.png)  
 
-![Hannya shingyo](hanna_shingyo.png)  
+![Hannya shingyo](hannya_shingyo.png)  
 
 You can leave your name and messages for her on "condolatory.csv".  
 "condolatory.csv"に、あなたの名前と彼女へのメッセージを残すことができます。  
